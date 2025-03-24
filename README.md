@@ -90,8 +90,8 @@ The malware detection system achieved strong performance metrics:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/pe-malware-detection.git
-cd pe-malware-detection
+git clone https://github.com/Cosmic-arch/Cloud-based-PE-Detector.git
+cd Cloud-based-PE-Detector
 ```
 
 2. Install dependencies:
@@ -135,9 +135,6 @@ A detailed report of the project is available in the `Report.pdf` file, which in
 2. Raff, E., Barker, J., Sylvester, J., Brandon, R., Catanzaro, B., & Nicholas, C. (2017). Malware detection by eating a whole exe. In Workshops at the Thirty-First AAAI Conference on Artificial Intelligence.
 3. Amazon Web Services. (2023). Amazon SageMaker Developer Guide: Deploy Models for Inference.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
