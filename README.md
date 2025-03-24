@@ -116,10 +116,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Video Demonstration
-
-A video demonstration of the project is available at: [https://youtu.be/your-video-link](https://youtu.be/your-video-link)
-
 ## Report
 
 A detailed report of the project is available in the `Report.pdf` file, which includes:
